@@ -1,0 +1,17 @@
+.box{
+    width: 550px;
+    height: 550px;
+    border: 1px solid #B4B4B4;
+    padding-top: 96px;
+    padding-left: 119px;
+   
+}
+h4{
+    margin: 0;
+}
+
+p{
+    margin: 0;
+    color: #808080;
+    font-size: 14px;
+}
